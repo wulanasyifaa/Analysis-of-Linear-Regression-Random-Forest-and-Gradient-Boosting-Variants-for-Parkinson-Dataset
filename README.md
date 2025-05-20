@@ -1,1 +1,2 @@
-# Analysis-of-Linear-Regression-Random-Forest-and-Gradient-Boosting-Variants-for-Parkinson-Dataset
+# Analysis of Linear Regression, Random Forest, and Gradient Boosting Variants for Parkinson Dataset
+In this project, I conducted a regression analysis using the Parkinson Telemonitoring dataset to predict the total UPDRS score based on various vocal features. I explored multiple models including Linear Regression, Random Forest, Gradient Boosting, XGBoost, and CatBoost. After preprocessing, feature selection, and model evaluation, I found that XGBoost delivered the best performance with the highest R² score. The project also involved hyperparameter tuning using GridSearchCV to further optimize model accuracy.
